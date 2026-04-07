@@ -45,7 +45,29 @@ Decription:
         => Tháng: Lượt xem nhiều nhất trong tháng. Hiển thị: tên truyện, số lượt xem
       . Thể loại
         => Hiển thị tất cả các thể loại: khi click vào các thể loại nào sẽ chuyển đến trang chuyên về thể loại đó (trong trang đó sẽ có tất cả các truyện thuộc thể loại đó).
-    *Footer:
+    * Footer:
       . Hiển thị: logo trang web, thông tin liên hệ
 
-  
+  + Trang Truyện mới
+    * Header: Logo Trang web, Trang chủ, truyện mới, danh sách truyện, thể loại, bảng xếp hạng, "Đăng ký/ Đăng nhập", Thông tin user
+    * Center:
+      . Hiển thị tất cả các truyện được đăng lên mới nhất theo thứ tự: từ 1s, 2s, 1p, 2p, 5p, 15p, 1 tiếng trước,..
+        => Hiển thị: tên truyện, thẻ (new), thẻ (full), thể loại, lượt xem, lưu vào thư viện, số chương, team dịch
+        => Click vào truyện sẽ chuyển qua trang web nội dung truyện.
+      . Góc phải hiển thị "Top truyện"
+    * Footer:
+      . Hiển thị: logo trang web, thông tin liên hệ
+
+  + Trang nội dung truyện:
+      * Header: Logo Trang web, Trang chủ, truyện mới, danh sách truyện, thể loại, bảng xếp hạng, "Đăng ký/ Đăng nhập", Thông tin user
+      * Center:
+        . Hình ảnh truyện (là ảnh bìa)
+        . Tên truyện
+        . Team dịch
+        . Thể loại
+        . Hashtag
+        . Mô tả truyện (Văn án)
+        . Số chương (click vào chương sẽ chuyển đến trang chương truyện)
+        . Bình luận (phải đăng nhập mới bình luận được)
+      * Footer:
+        . Hiển thị: logo trang web, thông tin liên hệ
