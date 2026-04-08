@@ -58,7 +58,7 @@ Decription:
     * Footer:
       . Hiển thị: logo trang web, thông tin liên hệ
 
-  + Trang nội dung truyện:
+  + Trang thông tin truyện:
       * Header: Logo Trang web, Trang chủ, truyện mới, danh sách truyện, thể loại, bảng xếp hạng, "Đăng ký/ Đăng nhập", Thông tin user
       * Center:
         . Hình ảnh truyện (là ảnh bìa)
@@ -71,3 +71,39 @@ Decription:
         . Bình luận (phải đăng nhập mới bình luận được)
       * Footer:
         . Hiển thị: logo trang web, thông tin liên hệ
+
+  + Trang nội dung truyện:
+      * Header: Logo Trang web, Trang chủ, truyện mới, danh sách truyện, thể loại, bảng xếp hạng, "Đăng ký/ Đăng nhập", Thông tin user
+      * Center:
+        . Hiển thị đường dẫn ví dụ: Home/Một Ngày Nắng/Chương 1
+        * Hiển thị tên chương
+        * Hiển thị Button Back (nếu là chương 1 thì không cần dẫn link), Next (chuyển đến trang chương kế tiếp)
+        * Hiển thị "nội dung truyện của chương 1"
+        * Hiển thị  Hiển thị Button Back, Next
+      * Footer:
+        . Hiển thị: logo trang web, thông tin liên hệ
+
+    + Trang đăng nhập
+      * Tên email/user
+      * Mật khẩu
+      * "Bạn chưa có tài khoản/Đăng ký"
+      * Đăng nhập bằng Google
+
+    + Trang đăng ký
+      * Tên username
+      * Tên email
+      * Nhập mật khẩu
+      * Nhập lại mật khẩu
+      * "Bạn đã có tài khoản/Đăng nhập"
+
+    + Trang gửi mã (token)
+      * Mã đã được gửi về email vui lòng nhập dãy ký tự có 6 số
+      * Nhập mã
+
+    + Thay đổi mật khẩu
+      * Nhập mật khẩu hiện tại
+      * Nhập mật khẩu mới
+      * Nhập lại mật khẩu
+      * Button "Thay đổi" (nếu mật khẩu hiện tại trùng khớp với mật khẩu lưu trong hệ thống thì chấp nhận thay đổi mật khẩu).
+
+    
