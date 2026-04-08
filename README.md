@@ -83,27 +83,27 @@ Decription:
       * Footer:
         . Hiển thị: logo trang web, thông tin liên hệ
 
-    + Trang đăng nhập
+  + Trang đăng nhập
       * Tên email/user
       * Mật khẩu
       * "Bạn chưa có tài khoản/Đăng ký"
       * Đăng nhập bằng Google
 
-    + Trang đăng ký
+  + Trang đăng ký
       * Tên username
       * Tên email
       * Nhập mật khẩu
       * Nhập lại mật khẩu
       * "Bạn đã có tài khoản/Đăng nhập"
 
-    + Trang gửi mã (token)
+  + Trang gửi mã (token)
       * Mã đã được gửi về email vui lòng nhập dãy ký tự có 6 số
       * Nhập mã
 
-    + Thay đổi mật khẩu
+  + Thay đổi mật khẩu
       * Nhập mật khẩu hiện tại
       * Nhập mật khẩu mới
       * Nhập lại mật khẩu
       * Button "Thay đổi" (nếu mật khẩu hiện tại trùng khớp với mật khẩu lưu trong hệ thống thì chấp nhận thay đổi mật khẩu).
 
-    
+  
