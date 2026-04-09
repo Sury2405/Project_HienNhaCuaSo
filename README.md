@@ -157,6 +157,17 @@ Decription:
             . Note: sau khi nhấn đăng ký vui lòng chụp màn hình và gửi mail cho chúng tôi
         * Footer:
           . Hiển thị: logo trang web, thông tin liên hệ
-          
+
+      + Trang thông báo
+         * Header: Logo Trang web, Trang chủ, truyện mới, danh sách truyện, thể loại, bảng xếp hạng, "Đăng ký/ Đăng nhập", Thông tin user
+         * Center:
+           - Tiêu đề thông báo (bình luận, tin nhắn duyệt đăng ký đăng truyện) (Highlight)
+           - thời gian (sắp xếp ngược chiều kim đồng hồ)
+           - Tên người gửi (account)
+         * Footer:
+           . Hiển thị: logo trang web, thông tin liên hệ
+
+      + 
+      
 3. Giao diện dành cho admin
    
